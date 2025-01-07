@@ -8,3 +8,4 @@ google says its an issue from the free hosting server since its using a
 security mechanism called JS Challenge which blocks direct requests 
 from tools like Postman or non-browser environments, including Flutter. 
 
+everything else should be fine and working as it should be.
